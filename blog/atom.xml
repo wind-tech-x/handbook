@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Wind Tech -X Blog</title>
+    <updated>2025-01-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Wind Tech -X Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello Handbook]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/hello-handbook</id>
+        <link href="https://your-docusaurus-site.example.com/blog/hello-handbook"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハンドブックの最初を作りました!!]]></summary>
+        <content type="html"><![CDATA[<p>このブログは、<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>で作られています。</p>
+<p>主にリリースノートとして利用します。</p>]]></content>
+        <author>
+            <name>Shota Ninomiya</name>
+            <uri>https://github.com/nishota</uri>
+        </author>
+        <category label="Release" term="Release"/>
+    </entry>
+</feed>
