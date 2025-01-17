@@ -1,7 +1,7 @@
 ---
 title: Hello Handbook
 description: ハンドブックの最初を作りました!!
-slug: welcome-docusaurus-v2
+slug: hello-handbook
 authors: nishota
 tags: [release]
 hide_table_of_contents: false
