@@ -7,7 +7,7 @@ tags: [release]
 hide_table_of_contents: false
 ---
 
-このブログは、[**Docusaurus 2**](https://docusaurus.io/)で作られています。
+このブログは、[**Docusaurus 3.7**](https://docusaurus.io/)で作られています。
 
 <!-- truncate -->
 
