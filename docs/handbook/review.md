@@ -16,4 +16,4 @@ sidebar_position: 4
 下記をレビューで確認する。
 
 * [ハンドブックファースト](./#ハンドブックファースト)の理念に沿っているか
-* [機密情報](./confidential-information)に該当しないか
+* [非公開情報](./confidential-information)に該当しないか
