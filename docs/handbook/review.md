@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # ハンドブックレビューとは
@@ -15,5 +15,5 @@ sidebar_position: 4
 ## 観点
 下記をレビューで確認する。
 
-* [ハンドブックファースト](./#ハンドブックファースト)の理念に沿っているか
+* [ハンドブックファースト](./handbook-first)の理念に沿っているか
 * [非公開情報](./confidential-information)に該当しないか
