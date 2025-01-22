@@ -1,6 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
+
+# コーディングガイドライン
 
 # 不具合修正ルール
 ## 手順
