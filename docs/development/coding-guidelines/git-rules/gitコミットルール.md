@@ -16,7 +16,6 @@
 * develop -> master
 * feature -> develop
 * hotfixes -> master
-* hotfixes -> develop
 
 また、コードレビューしてもらうためにfeature同士でプルリクエストを投げるのもあり
 

@@ -1,5 +1,5 @@
 # gitブランチルール
-![gitflow](../img/git-flow.png)
+![gitflow](./img/git-flow.png)
 
 GitFlowを真似したブランチ管理を行う。
 
