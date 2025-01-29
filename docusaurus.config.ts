@@ -122,7 +122,16 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/wind-tech-x/handbook',
-            },
+            }
+          ],
+        },
+        {
+          title: 'License',
+          items: [
+            {
+              label: 'CC By 4.0',
+              to: '/blog/license'
+            }
           ],
         },
       ],

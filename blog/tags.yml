@@ -2,3 +2,7 @@ release:
   label: Release
   permalink: /release
   description: Release tag description
+license:
+  label: License
+  permalink: /license
+  description: License tag description
