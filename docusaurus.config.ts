@@ -6,7 +6,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wind Tech -X',
-  tagline: 'Wind Tech -X は 地球を冷やす',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -122,11 +121,20 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/wind-tech-x/handbook',
-            },
+            }
+          ],
+        },
+        {
+          title: 'License',
+          items: [
+            {
+              label: 'CC By 4.0',
+              to: '/blog/license'
+            }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Wind Tech -X Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Wind Tech -X`,
     },
     prism: {
       theme: prismThemes.github,
