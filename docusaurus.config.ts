@@ -128,8 +128,11 @@ const config: Config = {
           title: 'License',
           items: [
             {
-              label: 'CC By 4.0',
+              label: 'CC BY 4.0',
               to: '/blog/license'
+            },
+            {
+              html:'<a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"/></a>'
             }
           ],
         },
