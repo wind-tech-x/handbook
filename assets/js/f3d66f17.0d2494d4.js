@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[667],{7581:e=>{e.exports=JSON.parse('{"tags":[{"label":"License","permalink":"/handbook/blog/tags/license","description":"License tag description","count":1},{"label":"Release","permalink":"/handbook/blog/tags/release","description":"Release tag description","count":1}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhandbook=self.webpackChunkhandbook||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello Handbook","permalink":"/handbook/blog/hello-handbook","unlisted":false,"date":"2025-01-17T00:00:00.000Z"}]}')}}]);

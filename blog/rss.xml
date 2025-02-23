@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Wind Tech -X Blog</title>
-        <link>https://your-docusaurus-site.example.com/handbook/blog</link>
+        <link>https://wind-tech-x.github.io/handbook/blog</link>
         <description>Wind Tech -X Blog</description>
-        <lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <item>
+            <title><![CDATA[ライセンス表示]]></title>
+            <link>https://wind-tech-x.github.io/handbook/blog/license</link>
+            <guid>https://wind-tech-x.github.io/handbook/blog/license</guid>
+            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ライセンス表示]]></description>
+            <content:encoded><![CDATA[<p>このドキュメントは、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" target="_blank" rel="noopener noreferrer"><strong>CC BY 4.0</strong></a>で作られています。</p>
+<a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"></a>]]></content:encoded>
+            <category>License</category>
+        </item>
+        <item>
             <title><![CDATA[Hello Handbook]]></title>
-            <link>https://your-docusaurus-site.example.com/handbook/blog/hello-handbook</link>
-            <guid>https://your-docusaurus-site.example.com/handbook/blog/hello-handbook</guid>
+            <link>https://wind-tech-x.github.io/handbook/blog/hello-handbook</link>
+            <guid>https://wind-tech-x.github.io/handbook/blog/hello-handbook</guid>
             <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[ハンドブックの最初を作りました!!]]></description>
-            <content:encoded><![CDATA[<p>このブログは、<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>で作られています。</p>
+            <content:encoded><![CDATA[<p>このドキュメントは、<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 3.7</strong></a>で作られています。</p>
 <p>主にリリースノートとして利用します。</p>]]></content:encoded>
             <category>Release</category>
         </item>
