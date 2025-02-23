@@ -23,6 +23,11 @@ function HomepageHeader() {
             to="/docs/handbook">
             Handbookへ
           </Link>
+          <Link
+            className="button button--primary button--lg"
+            to="/docs/company">
+            私たちについて
+          </Link>
         </div>
       </div>
     </header>
