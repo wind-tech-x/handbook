@@ -15,25 +15,26 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        ほげほげ
+        私たちのグループの活動の基準となるハンドブックを公開しています。
       </>
     ),
   },
   {
-    title: 'ドキュメント',
+    title: '私たちについて',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        ほげほげ
+        私たちのグループは、~
       </>
     ),
   },
   {
-    title: '開発標準',
+    title: 'オープンソース',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        ほげほげ
+        これらのハンドブックは、CC BY 4.0のもとオープンソースとして公開します。
+        誰でも追加、修正に参加することが出来ます。また誰でも自由に利用してください。
       </>
     ),
   },

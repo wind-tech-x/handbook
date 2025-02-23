@@ -6,11 +6,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wind Tech -X',
-  tagline: 'Wind Tech -X は 地球を冷やす',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://wind-tech-x.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/handbook/',
@@ -68,7 +67,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Wind Tech -X',
+      title: 'WindTech -X',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -78,7 +77,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Handbook',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -122,11 +121,23 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/wind-tech-x/handbook',
+            }
+          ],
+        },
+        {
+          title: 'License',
+          items: [
+            {
+              label: 'CC BY 4.0',
+              to: '/blog/license'
             },
+            {
+              html:'<a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"/></a>'
+            }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Wind Tech -X Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Wind Tech -X`,
     },
     prism: {
       theme: prismThemes.github,
